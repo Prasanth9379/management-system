@@ -1,0 +1,12 @@
+[
+    { "id":1, "name": "prasanth", "age": 20, "city": "chennai"},
+    { "id":2, "name": "rohit", "age": 25, "city": "andhra"},
+    { "id":3, "name": "yunesh", "age": 23, "city": "poonamalee"},
+    { "id":4, "name": "yuvan", "age": 21, "city": "guindy"},
+    { "id":5, "name": "praveen", "age": 22, "city": "chennai"},
+    { "id":6, "name": "mohan", "age": 30, "city": "mylapore"},
+    { "id":7, "name": "saravana", "age": 40, "city": "porur"},
+    { "id":8, "name": "ashwanth", "age": 24, "city": "chennai"},
+    { "id":9, "name": "akshay", "age": 25, "city": "telungana"},
+    { "id":10, "name": "bobby", "age": 20, "city": "kanya kumari"}
+]
